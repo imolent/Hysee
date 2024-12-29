@@ -1,2 +1,1 @@
-# Hysee
-a hypixel mod!
+# Hysee an amazing mod for curiousity on hypixel!
